@@ -31,10 +31,38 @@ Styling & UI
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
 
 Backend
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 
 Icons
+
 <img src="https://img.shields.io/badge/Bootstrap_Icons-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Icons" />
 
 Tools & Platforms
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></div>
+
+
+🏆 Featured Projects
+Full Stack Applications
+
+🛒 E-commerce Platform - Next.js  + Prisma + Postgress + Typescript
+
+📊 Casablanca Hotel - Nextjs + Supabase + Typescript
+
+✅ Portfolio - TypeScript + Next.js 14 + Tailwind 
+
+// React + TypeScript + Tailwind Project
+const projectStack = {
+  frontend: ['React', 'TypeScript', 'Tailwind CSS', 'Bootstrap Icons'],
+  backend: ['Node.js', 'Express.js', 'REST APIs'],
+  styling: ['CSS3', 'Responsive Design', 'CSS Modules'],
+  tools: ['Git', 'VS Code', 'Chrome DevTools']
+};
+
+
+🎨 Quick Links
+🔗 Portfolio: mohamad-abdolahi.vercel.app
+
+📁 Resume: 
+
